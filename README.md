@@ -1,4 +1,4 @@
-### Hello world! I'm Jessica 👋
+### Hello world! I'm Jessica <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"/>
 
 <img src="https://media.giphy.com/media/7NoNw4pMNTvgc/giphy.gif" height="180"/>
 
