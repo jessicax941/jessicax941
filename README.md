@@ -2,9 +2,9 @@
 
 <img src="https://media.giphy.com/media/7NoNw4pMNTvgc/giphy.gif" height="180"/>
 
-- 📝 Currently a Year 3 Computer Science student at National University of Singapore
-- 👩‍💻 Interested in frontend dev, UI/UX design, and game dev!
-- ❤️ Reading ([my Goodreads profile](https://www.goodreads.com/jessicapsx)), video games, anime, coffee and tea
+📝 Year 3 Computer Science student at National University of Singapore<br>
+👩‍💻 Interested in **frontend dev**, **UI/UX design**, and **game dev**!<br>
+❤️ Other hobbies/interests include reading ([my Goodreads profile](https://www.goodreads.com/jessicapsx)), video games, anime, coffee and tea
 
 Find me elsewhere on the interwebs:
 
