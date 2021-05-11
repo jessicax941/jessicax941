@@ -4,7 +4,7 @@
 
 📝 Year 3 Computer Science student at National University of Singapore<br>
 👩‍💻 Interested in **frontend dev**, **UI/UX design**, **game dev** and **mobile dev**!<br>
-❤️ Other hobbies include reading ([my Goodreads profile](https://www.goodreads.com/jessicapsx)), video games, anime and calisthenics
+❤️ Other hobbies include [reading](https://www.goodreads.com/jessicapsx), video games, anime and calisthenics
 
 Find me elsewhere on the interwebs:
 
