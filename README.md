@@ -8,10 +8,16 @@
 Find me elsewhere on the interwebs:
 
 <a href="https://www.linkedin.com/in/jessicapsx/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://codepen.io/jessicax941">
+  <img src="https://img.shields.io/badge/Codepen-242424?style=for-the-badge&logo=codepen&logoColor=white" />
+</a>
+<a href="https://dribbble.com/jessicax941">
+  <img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" />
 </a>
 
-<!--
+<!-- CENTER ALIGNED
 <h3 align="center">Hello world! I'm Jessica <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"/></h3>
 <div align="center">
   <img src="https://media.giphy.com/media/7NoNw4pMNTvgc/giphy.gif" height="180"/>
