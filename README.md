@@ -1,11 +1,13 @@
-### Hello world! I'm Jessica <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"/>
+<h3><img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"/> Hello world! I'm Jessica</h3>
 <img src="https://media.giphy.com/media/7NoNw4pMNTvgc/giphy.gif" height="180"/>
 
-📝 Final Year Computer Science student at National University of Singapore<br>
-👩‍💻 Interested in **frontend dev**, **UI/UX design**, **game dev** and **mobile dev**!<br>
-❤️ Other hobbies include reading, video games, anime and calisthenics
 
-Find me elsewhere on the interwebs:
+📝 Computer Science student + Minor in Interactive Media Development<br>
+👩‍💻 Interested in **frontend dev**, **UI/UX design** and **game dev**!<br>
+❤️ Also likes reading, video games, coffee and jogging
+
+
+📫 Find me elsewhere:
 
 <a href="https://www.linkedin.com/in/jessicapsx/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -16,30 +18,6 @@ Find me elsewhere on the interwebs:
 <a href="https://dribbble.com/jessicax941">
   <img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" />
 </a>
-
-<!-- CENTER ALIGNED
-<h3 align="center">Hello world! I'm Jessica <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"/></h3>
-<div align="center">
-  <img src="https://media.giphy.com/media/7NoNw4pMNTvgc/giphy.gif" height="180"/>
-</div>
-
-
-<div align="center">
-  📝 Year 3 Computer Science student at National University of Singapore<br>
-  👩‍💻 Interested in <strong>frontend dev</strong>, <strong>UI/UX design</strong>, <strong>game dev</strong> and <strong>mobile dev</strong>!<br>
-  ❤️ Other hobbies include <a href="https://www.goodreads.com/jessicapsx">reading</a>, video games, anime and calisthenics
-</div>
-
-<br>
-
-<div align="center">
-  <strong>Find me elsewhere on the interwebs:</strong><br>
-
-  <a href="https://www.linkedin.com/in/jessicapsx/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</div>
--->
 
 <!--
 **jessicax941/jessicax941** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
