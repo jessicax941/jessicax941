@@ -21,7 +21,9 @@
 <br>
 <br>
 
-[![jessicax941's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jessicax941&layout=compact&custom_title=Last%207%20Days%20Wakatime%20Stats)](https://wakatime.com/@jessicax941)
+<!-- [![Jessica's GitHub stats](https://github-readme-stats.vercel.app/api?username=jessicax941&count_private=true&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) -->
+
+<!-- [![jessicax941's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jessicax941&layout=compact&custom_title=Last%207%20Days%20Wakatime%20Stats)](https://wakatime.com/@jessicax941) -->
 
 <!--
 **jessicax941/jessicax941** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
