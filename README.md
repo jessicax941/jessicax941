@@ -1,10 +1,9 @@
 <h3><img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"/> Hello world! I'm Jessica</h3>
 <img src="https://media.giphy.com/media/7NoNw4pMNTvgc/giphy.gif" height="180"/>
 
-
-📝 Computer Science student + Minor in Interactive Media Development<br>
-👩‍💻 Interested in **frontend dev**, **UI/UX design** and **game dev**!<br>
-❤️ Also likes reading, video games, coffee and jogging
+👩‍💻 Focus area in **frontend dev**, also has experience in **backend dev**, **UI/UX design** and **game dev**!<br>
+📝 Majored in Computer Science + Minor in Interactive Media Development<br>
+🍵 Also enjoys reading, travelling, coffee and matcha latte~
 
 📫 Find me elsewhere:
 
